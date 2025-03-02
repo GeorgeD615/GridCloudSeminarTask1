@@ -11,7 +11,7 @@
     <h2>Setup and Run</h2>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone &lt;repo_url&gt;</code></pre>
+        <pre><code>git clone https://github.com/GeorgeD615/GridCloudSeminarTask1.git</code></pre>
         <li>Navigate to the project folder:</li>
         <pre><code>cd &lt;repo_folder&gt;</code></pre>
         <li>Build and start the containers:</li>
