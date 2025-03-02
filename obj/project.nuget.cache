@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQVDLrN0HnRUasYP3l0WPd+cbCTtNXPJWu3tY57/2v0CY3tgLczhVsQkPEipkKgR4QmHH4gXYCfNX2Oa/Hw/OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OMEN\\source\\repos\\ContainerizedWebApi\\ContainerizedWebApi\\ContainerizedWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.data.sqlite\\9.0.2\\microsoft.data.sqlite.9.0.2.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

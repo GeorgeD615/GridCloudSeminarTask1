@@ -1,0 +1,23 @@
+﻿version: '3.8'
+
+services:
+  db:
+    image: alpine
+    volumes:
+      - sqlite_data:/data
+    command: ["sh", "-c", "apk add --no-cache sqlite && sqlite3 /data/app.db \"CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY, name TEXT);\""]
+    restart: always
+
+  webapi:
+    build: .
+    ports:
+      - "5000:8080"
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=Data Source=/data/app.db
+    volumes:
+      - sqlite_data:/data
+
+volumes:
+  sqlite_data:

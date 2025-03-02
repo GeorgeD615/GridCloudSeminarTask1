@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZrlFj11q4cFWY9ntKSVbbiQBmbR1/XtWeTSlseu/yK8=",
+  "Source": "ContainerizedWebApi",
+  "BasePath": "_content/ContainerizedWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
